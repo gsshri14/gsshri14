@@ -1,16 +1,22 @@
-## Hi there 👋
+## Welcome! 👋
+I'm a **Full Stack Software Developer | SevSecOps Engineer | Cloud Engineer**. I'm passionate about **Automation** and leveraging the **Cloud** to build solutions that solve problems with global impacts. Find out more about me & feel free to connect with me here:
 
-<!--
-**gsshri14/gsshri14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikant-gutte)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:shrikantgutte@gmail.com)
 
-Here are some ideas to get you started:
+## ⚡ Technologies
+- **Amazon AWS**
+- **Git**
+- **GitHub**
+- **Python**
+- **Linux**
+- **Docker**
+- **Kubernetes**
+- **Terraform**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+## 🔝 Top Languages
+
+## 🧑‍💻 Visitors
+
